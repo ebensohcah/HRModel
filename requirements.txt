@@ -1,0 +1,5 @@
+numpy==1.1720
+pandas==1.1.2
+flask==1.1.1
+sklearn==0.0
+pickleshare==0.7.5
